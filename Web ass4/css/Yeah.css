@@ -1,0 +1,359 @@
+.conteiner .mainText{ 
+    color: rgb(2, 166, 255); 
+    margin: 30px 50px 50px 20px; 
+    display: block; 
+    text-align: center; 
+    margin-top: 150px; 
+    font-size: 50px; 
+  } 
+  
+  main .conteiner  p, 
+  main .conteiner  li{ 
+    text-decoration: none; 
+    color:rgb(3, 59, 6) ; 
+    margin: 25px; 
+    font-size: 12px; 
+    
+  } 
+  body{ 
+    background: url(https://wallpapers.com/images/hd/cloudy-background-7zt29kx0fcwmprw0.jpg); 
+    height: 100vh;
+  } 
+  .img1{ 
+    padding: 10px; 
+    margin: 20px; 
+    border-radius:30px; 
+  } 
+  .dis{ 
+    width: 400px; 
+  } 
+  .textH4{ 
+    color: rgb(2, 166, 255); 
+  } 
+  .box d-flex{ 
+    box-sizing:border-box; 
+    margin: 0; 
+    padding: 0; 
+  } 
+  .conteiner-fluid{ 
+    width: 100%; 
+  } 
+  .conteiner{ 
+    max-width: 1140px; 
+    margin: 0 auto; 
+  } 
+  .d-flex{ 
+    display: flex; 
+    padding: 100px;    
+    align-items: center; 
+  } 
+  
+  body{ 
+    font-family: Arial, Helvetica, sans-serif; 
+    width: 100%; 
+    font-size: 16px; 
+  } 
+  header > .conteiner{ 
+    padding: 40px 20px; 
+  } 
+  header .conteiner .menu a{ 
+  font-size: 0.875em; 
+  text-decoration: none; 
+  color:rgb(9, 41, 148); 
+  margin: 0px 20px; 
+  } 
+  header .conteiner .menu a:hover, 
+  header .conteiner .menu a.active 
+  { 
+    color: rgb(2, 166, 255); 
+    font-weight: 600; 
+  } 
+  .lettering{ 
+    display: block; 
+    margin: 0 auto; 
+  } 
+  .image{ 
+    width: 400px; 
+    display: inline; 
+    border-radius: 30px; 
+  } 
+  .space{ 
+    display: flex; 
+    justify-content: space-around; 
+  } 
+  h5{ 
+    display: block; 
+    margin: 0 auto; 
+    text-align: center; 
+    font-size: 50px;
+  } 
+  .white{ 
+    color: #0C356A; 
+  } 
+  .card{ 
+    display: flex; 
+    align-items: center; 
+    margin: 0 auto; 
+  }
+  
+  
+  
+ 
+
+    /* Жансая лох*/
+
+  .contact-container {
+    display: inline-block;
+    background-color: rgb(59, 59, 59);
+    padding: 20px;
+    top: -20px;
+}
+
+.line {
+  background-color: rgb(59, 59, 59);
+}
+.contact-info {
+    color: white;
+    margin-bottom: 10px;
+}
+.inline{
+  display: inline;
+}
+.fontaws{
+  width: 10%;
+}
+.button a.nav-link {
+  background-color: blue;
+  color: white;
+}
+.navb{
+  background-color: white;
+  color: white;
+}
+* {
+  box-sizing: border-box;
+}
+.fontm{
+  font-size: 160%;
+}
+.fontk{
+  font-size: 130%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ /*Nurbolat*/
+  /* CUSTOMIZE THE CAROUSEL */
+  .carousel {
+    margin-bottom: 10rem;
+  }
+  
+  @font-face {
+    font-family: 'Sunday';
+    src: url('../fonts/sunday.eot'); /* IE 9 Compatibility Mode */
+    src: url('../fonts/sunday.eot?#iefix') format('embedded-opentype'), /* IE < 9 */
+      url('../fonts/sunday.woff2') format('woff2'), /* Super Modern Browsers */
+      url('../fonts/sunday.woff') format('woff'), /* Firefox >= 3.6, any other modern browser */
+      url('../fonts/sunday.ttf') format('truetype'), /* Safari, Android, iOS */
+      url('../fonts/sunday.svg#sunday') format('svg'); /* Chrome < 4, Legacy iOS */
+  }
+  
+
+  .carousel-caption {
+    bottom: 3rem;
+    z-index: 10;
+  }
+  
+  .carousel-item {
+    text-align: center;
+    height: 32rem;
+  }
+  
+  /* Featurettes */
+  .featurette-divider {
+    margin: 5rem;
+  }
+  
+  /* RESPONSIVE CSS */
+  @media (min-width: 40em) {
+    .carousel-caption p {
+      margin-bottom: 1.25rem;
+      font-size: 1.25rem;
+      line-height: 1.4;
+    }
+  
+    .featurette-heading {
+      font-size: 50px;
+    }
+  }
+  
+  @media (min-width: 62em) {
+    .featurette-heading {
+      margin-top: 7rem;
+    }
+  }
+  
+  .bd-placeholder-img {
+    font-size: 1.125rem;
+    text-anchor: middle;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    user-select: none;
+  }
+  
+  @media (min-width: 768px) {
+    .bd-placeholder-img-lg {
+      font-size: 3.5rem;
+    }
+  }
+  
+ 
+  
+
+
+  .rating {
+    margin-right: 50px;
+    display: flex;
+    justify-content: flex-end; /* Расположить звезды справа */
+    align-items: center; /* Выравнивание по вертикали */
+    margin-top: 10px; /* Расстояние сверху */
+  }
+  
+  .star {
+    font-size: 24px; /* Размер звезды */
+    margin-left: 5px; /* Расстояние между звездами */
+    font-size: 24px;
+    cursor: pointer;
+    color: gold;
+  }
+
+
+
+  .sortted{
+    margin: 100px;
+    text-align: center;
+    
+    background:  #00A9FF; /* Цвет фона */
+    outline: 3px solid #000; /* Чёрная рамка */
+    border: 3px solid #CDF5FD; /* Белая рамка */
+    border-radius: 15px; /* Радиус скругления */
+  
+  }
+  .salact{ 
+    background:  #89CFF3; /* Цвет фона */ 
+    outline: #0C356A; 
+    border-radius: 10px; /* Радиус скругления */ 
+    color:#2F4F4F 
+  }
+.knopka{
+  background: #008B8B;
+  outline: 1px solid #000; /* Чёрная рамка */
+  border-radius: 10px; /* Радиус скругления */
+color: #FFFF00;
+
+}
+
+
+
+
+  /*.feature-icon {
+    width: 4rem;
+    height: 4rem;
+    border-radius: .75rem;
+  }
+  
+  .icon-square {
+    width: 3rem;
+    height: 3rem;
+    border-radius: .75rem;
+  }
+  
+  .text-shadow-1 { text-shadow: 0 .125rem .25rem rgba(0, 0, 0, .25); }
+  .text-shadow-2 { text-shadow: 0 .25rem .5rem rgba(0, 0, 0, .25); }
+  .text-shadow-3 { text-shadow: 0 .5rem 1.5rem rgba(0, 0, 0, .25); }
+  
+  .card-cover {
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+  }
+  
+  .feature-icon-small {
+    width: 3rem;
+    height: 3rem;
+  }*/
+  .glow-on-hover { 
+    width: 120px; 
+    height: 30px; 
+    border: none; 
+    outline: none; 
+    color: #fff; 
+    background: #008080; 
+    cursor: pointer; 
+    position: relative; 
+    z-index: 0; 
+    border-radius: 10px; 
+  } 
+   
+  .glow-on-hover:before { 
+    content: ''; 
+    background: linear-gradient(45deg, #ff0000, #ff7300, #fffb00, #48ff00, #00ffd5, #002bff, #7a00ff, #ff00c8, #ff0000); 
+    position: absolute; 
+    top: -2px; 
+    left:-2px; 
+    background-size: 400%; 
+    z-index: -1; 
+    filter: blur(5px); 
+    width: calc(100% + 4px); 
+    height: calc(100% + 4px); 
+    animation: glowing 20s linear infinite; 
+    opacity: 0; 
+    transition: opacity .3s ease-in-out; 
+    border-radius: 10px; 
+  } 
+   
+  .glow-on-hover:active { 
+    color: #008B8B 
+  } 
+   
+  .glow-on-hover:active:after { 
+    background: transparent; 
+  } 
+   
+  .glow-on-hover:hover:before { 
+    opacity: 1; 
+  } 
+   
+  .glow-on-hover:after { 
+    z-index: -1; 
+    content: ''; 
+    position: absolute; 
+    width: 100%; 
+    height: 100%; 
+    background: #008B8B; 
+    left: 0; 
+    top: 0; 
+    border-radius: 10px; 
+  }
